@@ -34,5 +34,5 @@ npm run test
 ```
 
 ### contracts
-Factory: https://goerli.etherscan.io/address/0xab1fc6b1e5fa0a8af497e6ecde33fb6b2973a381
-Query: https://goerli.etherscan.io/address/0x967265c474561821e7518B13aA447834541b6091
+- Factory: https://goerli.etherscan.io/address/0xab1fc6b1e5fa0a8af497e6ecde33fb6b2973a381
+- Query: https://goerli.etherscan.io/address/0x967265c474561821e7518B13aA447834541b6091
