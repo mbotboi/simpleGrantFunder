@@ -13,9 +13,7 @@ Link: **
 
 ### Build
 
-
-1.create a file at root called sensitive.json
-2. in /sensitive.json you can fill in the values for deployment
+- in /sensitive.json you can fill in the values for deployment
 ```
     {
         "rpc":"",
