@@ -13,16 +13,18 @@ Link: **
 
 ### Build
 
-```
+
 1.create a file at root called sensitive.json
 2. in /sensitive.json you can fill in the values for deployment
+```
     {
         "rpc":"",
         "deployerKey":"",
         "etherscanApiKey":""
     }
+```
 you can fill in the values with your own for deployment, but for testing leaving them blank is enough
-
+```
 npm install
 npm run build
 ```
